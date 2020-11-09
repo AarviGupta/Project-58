@@ -1,10 +1,6 @@
-
-html{
-scroll-behavior:smooth;
-}
-    body{
+body{
   text-align:center;
-  background:linear-gradient( #0288D1 0%, #E1BEE7 100%);
+  background:linear-gradient( #E1BEE7 0%, #0288D1 100%);
  background-repeat:no-repeat;
 }
 h1{
